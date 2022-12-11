@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SPA-calculator/static/css/main.c7ec3132.css",
+    "main.js": "/SPA-calculator/static/js/main.6728117b.js",
+    "static/media/mainBG.png": "/SPA-calculator/static/media/mainBG.027c7c013703847af04d.png",
+    "index.html": "/SPA-calculator/index.html",
+    "main.c7ec3132.css.map": "/SPA-calculator/static/css/main.c7ec3132.css.map",
+    "main.6728117b.js.map": "/SPA-calculator/static/js/main.6728117b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.6728117b.js"
+  ]
+}
